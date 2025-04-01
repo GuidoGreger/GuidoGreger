@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Guido (@GuidoGreger)
+# 👋 Hi, I’m Guido (@GuidoGreger)
+
+### 🔍 Looking for opportunities as BI Analyst, Data Analyst, Data Storyteller in Green Energy, Healthcare, Digital Transformation 
+
 - 👀 I’m interested in Business Intelligence, Data Analytics, Data Storytelling, Python, SQL, Tableau, Visualizations
-- 🔍 Looking for opportunities as BI Analyst, Data Analyst, Data Storyteller in Green Energy, Healthcare, Digital Transformation 
 - 🌱 I’m currently building my tech stack: Intermediate & Advanced SQL, PostgreSQL, Python/Pandas, Seaborn, Tableau and Power BI
 - 💞️ Passionate about the endless opportunities at the intersection of business strategy, digital technology and data
 - 📫 Reach me on LinkedIn
